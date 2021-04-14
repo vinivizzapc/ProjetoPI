@@ -1,0 +1,136 @@
+@charset "ISO-8859-1";
+
+.clear{
+	clear: both;
+}
+
+.principal{
+	width: 100%;
+	background-color: #fafafa;
+	height: 700px;
+	border-left: 1px solid #e6e6e6;
+	border-right: 1px solid #e6e6e6;
+	border-top: 1px solid #e6e6e6;
+	border-bottom: 1px solid #e6e6e6;
+	margin-top: 10.5%;
+}
+
+
+.caminho{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+
+
+.nome{
+	font-size: 16px;
+	color: black;
+}
+
+strong.nome:hover{
+	text-decoration:none;
+}
+
+.Pagamento{
+	border:1px solid #e6e6e6	;
+	border-radius:10px;
+	padding:10px;
+}
+
+.CartaoS{
+	font-size:20px;
+	
+}
+
+.BoletoS{
+	font-size:20px;
+}
+
+.Cartao{
+	display: inline-block;
+}
+.Boleto{
+	display: inline-block;
+	margin-left:90px;
+}
+.contato{
+	font-size: 18px;
+	font-weight:bold;
+	color: black;
+	 
+}
+.texto-contato{
+	font-size: 16px;
+	color: black;
+}
+
+.puxar{
+	float: left;
+}
+
+label{
+	float: left;
+}
+
+.preco{
+	float: right;
+	color: #323232;
+	font-weight: bold;
+}
+
+.valor{
+	float: right;
+	color: #323232;
+}
+
+.separacao{
+	display: block;
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+.divBtn{
+	margin-top: 160px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.pagto{
+	float: right;
+	font-size: 15px;
+}
+
+
+.imgLogo{
+	heigth: 40px;
+	width: 350px;
+	padding-top: 30px;
+	margin-bottom: 40px;
+}
+
+
+a.voltar{
+	text-decoration: none;
+}
+
+a.linkHead{
+	color:black;
+}
+
+a.linkHead:hover{
+	text-decoration: none;
+	color: rgb(175, 175, 175);
+}
+
+
+.cortext{
+	color: green;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.cormsg{
+	font-size: 14px;
+	font-weight: bold;
+}

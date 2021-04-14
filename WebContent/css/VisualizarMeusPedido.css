@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+
+.titulo{
+	margin-top: 35px;
+}
+
+.principal{
+	display: inline-block;
+	border: 1px solid #e6e6e6;
+	border-radius: 10px;
+	width: 49%;
+	padding: 20px;
+	margin-bottom: 30px;
+}
+
+.tot{
+	float: right;
+}
+
+.codigo{
+	margin-bottom: 20px;
+}
+
+.ali{
+	margin-top: 7px;
+}
+
+.titulo-id{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.btn-vazio{
+	margin-bottom: 400px;
+	margin-top: 50px;
+}
+
+.stats{
+	font-size: 14px;
+}
+
+.status{
+	margin-top: 20px;
+}
+
+.btn-sm{
+	float: right;
+}

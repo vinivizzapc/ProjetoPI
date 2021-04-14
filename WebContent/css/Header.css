@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+nav{
+	background: linear-gradient(#1a1a1a, black);
+}
+
+.navbar-brand{
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.nav-item{
+	cursor: pointer;
+}
+
+li i{
+	vertical-align: middle;
+}
+
+li a{
+	font-size: 13px;
+}
+
+button i{
+	vertical-align: middle;
+}
+
+.seila{
+	display: none;
+}
+
+@media (max-width: 990px){
+	.seila{
+		display: block;
+	}
+}

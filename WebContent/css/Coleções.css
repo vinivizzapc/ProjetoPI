@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+.container-colecao{
+    width: 100%;
+    padding: 0 8%;
+}
+
+.col-md-12 img{
+    width: 216px;
+    height: 216px;
+    padding-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 234px;
+}
+
+.col-md-12 img:hover{
+    width: 216px;
+    height: 216px;
+    opacity: 0.7;
+}
+
+.textoTitulo{
+	margin-left: 102px;
+	margin-top: 50px;
+    font-size: 35px;
+    font-weight: bold;
+}

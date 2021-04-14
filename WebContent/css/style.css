@@ -1,0 +1,101 @@
+@CHARSET "UTF-8";
+/*
+ * style.css
+ */
+ 
+@media(min-width: 980px) {
+    .div-img-carousel, .item.active {
+        overflow: hidden;
+        width: 600px;
+        height: 400px;
+        margin: 0 auto;
+    }
+
+    .carousel-inner {
+        width: 40%;
+    }
+
+    #meuSlider {
+        width: 50px;
+        height: 40px;
+    }
+
+}
+
+.notificaçao:checked {
+	color: black;
+}
+
+.btn-primary {
+	background-color: black;
+	border: black;
+	color: white;
+}
+
+.btn-primary:hover {
+	background-color: #4F4F4F;
+	border: black;
+}
+
+.btndefault {
+	color: #4F4F4F;
+}
+
+.btndefault:hover {
+	color: black;
+}
+
+
+.SelectPais {
+	height: 28px;
+	width: 364px;
+	color: #CFCFCF;
+	border-color: #CFCFCF;
+	border-radius: 5px;
+	font-size: 25px;
+}
+
+.SelectEstado {
+	height: 28px;
+	width: 364px;
+	color: #CFCFCF;
+	border-color: #CFCFCF;
+	border-radius: 5px;
+	font-size: 25px;
+}
+
+.container5 ul {
+	list-style-type: none;
+}
+.container6 {
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-right: auto;
+	margin-left: auto
+}
+.containerCarrossel {
+	padding-right: 300px;
+	padding-left: 300px;
+	margin-right: auto;
+	margin-left: auto
+}
+.textoSobrenos{
+	color: black;
+	font-size: 18px;
+	font-family: Helvetica;
+	
+}
+.imagenslogo{
+	margin-right: 0px;
+	margin-left: 330px;
+	position: absulute;
+	left: calc(50% - 100px);
+}
+.inicioBotao{
+	text-decoration: none;
+	position: relative;
+	bottom: 0px;
+	font-weight: bold;
+	color: black;
+}
+

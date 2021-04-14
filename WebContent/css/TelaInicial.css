@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open sans";
+}
+
+html, body{
+    height: 100%;
+}
+
+.carousel{
+	margin-top: 40px;
+}
+
+.container-colecao{
+    width: 100%;
+    padding: 0 8%;
+}
+
+.col-md-12 img{
+    width: 216px;
+    height: 216px;
+    padding-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.col-md-12 img:hover{
+    width: 216px;
+    height: 216px;
+    opacity: 0.7;
+}

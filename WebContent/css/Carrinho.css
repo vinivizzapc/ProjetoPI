@@ -1,0 +1,77 @@
+@charset "ISO-8859-1";
+
+.clear{
+	clear: both;
+}
+
+h1.titulo{
+	margin-top: 70px;
+}
+
+.carrinhoVazio{
+	margin-bottom: 230px;
+}
+
+.imgProduto{
+	width: 180px;
+ 	height: 170px;
+}
+
+strong{
+	font-size: 19px;
+	color: black;
+	display: inline-block;
+	text-decoration: none;
+}
+
+strong:hover{
+	text-decoration: none;
+}
+
+.checkBox{
+	padding: 8px;
+	font-size: 16px;
+}
+
+.preco{
+	font-size: 19px;
+}
+
+.valorTotal{
+	font-size: 19px;
+}
+
+.divBtn{
+	float: right;
+	margin-bottom: 30px;
+	text-align: right;
+}
+
+.frete{
+	font-style: oblique;
+	font-size: 14px;
+
+}
+
+.carrinhoVazio{
+	padding-top: 100px;
+	padding-bottom: 75px;
+}
+
+.remove{
+	display: block;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+.remove:hover{
+	text-decoration: none;
+}
+
+.table td{
+	vertical-align: middle !important;
+}
+
+.nome:hover{
+	text-decoration: none;
+}

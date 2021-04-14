@@ -1,0 +1,153 @@
+@charset "ISO-8859-1";
+
+.clear{
+	clear: both;
+}
+
+.principal{
+	float: left;
+	width: 50%;
+	margin-top: 30px;
+}
+
+.caminho{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.wraper{
+	border: 1px solid #e6e6e6;
+	border-radius: 10px;
+	padding: 10px;
+	font-size: 12px;
+}
+
+td{
+	padding-top: 10px;
+}
+
+.itens{
+	float: right;
+	background-color: #fafafa;
+	min-height: 100vh;
+	width: 50%;
+	border-left: 1px solid #e6e6e6;
+}
+
+
+.nome{
+	align: middle;
+	font-size: 16px;
+	color: black;
+}
+
+strong.nome:hover{
+	text-decoration:none;
+}
+
+
+.contato{
+	font-size: 14px;
+	color: rgb(160, 160, 160);
+	text-align: left;
+	 
+}
+.texto-contato{
+	font-size: 12px;
+	color: black;
+}
+
+.prod{
+	display: block;	
+	margin-top: 20px;
+	padding-right: 18px;
+	padding-left: 18px;
+}
+
+.imgProduto{
+	width: 100px;
+	height: 100px;
+}
+
+.puxar{
+	float: left;
+}
+
+label{
+	float: left;
+}
+
+.preco{
+	float: right;
+	color: #323232;
+	font-weight: bold;
+}
+
+.valor{
+	float: right;
+	color: #323232;
+}
+
+.separacao{
+	display: block;
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+.divBtn{
+	margin-top: 220px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.pagto{
+	float: right;
+	font-size: 15px;
+}
+
+.voltar{
+	float: left;
+	margin-top: 6px;
+}
+
+.imgLogo{
+	heigth: 40px;
+	width: 250px;
+}
+
+.alinhamento{
+	float: left;
+}
+
+.alinhaBtn{
+	float: right;
+}
+
+a.linkBtn{
+	color: black;
+}
+
+a.linkBtn:hover{
+	text-decoration: none;
+}
+
+a.voltar:hover{
+	text-decoration: none;
+}
+
+a.linkHead{
+	color:black;
+}
+
+a.linkHead:hover{
+	text-decoration: none;
+	color: rgb(175, 175, 175);
+}
+
+.pagmt{
+	color: rgb(175, 175, 175);
+}
+
+.vlrqtd{
+	margin-top: 37px;
+}

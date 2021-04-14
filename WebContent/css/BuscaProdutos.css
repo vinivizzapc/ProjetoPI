@@ -1,0 +1,58 @@
+@charset "ISO-8859-1";
+
+.container-busca{
+    width: 100%;
+    padding: 0 8%;
+}
+
+h1.titulo{
+	font-size: 25px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+
+.pesquisa{
+	padding: 8px;
+	border-radius: 4px;
+	margin-bottom: 270px;
+}
+
+.pesquisa2{
+	padding: 8px;
+	border-radius: 4px;
+}
+
+.ContainerProdutos {
+	padding-top: 20px;
+	height: 250px;
+	width: 190px;
+	display: inline-block;
+	margin-right: 70px;
+	margin-bottom: 80px;
+	cursor: pointer;
+	text-align: center;
+}
+
+.preco{
+	text-align: center;
+	font-size: 12px;
+	color: black;
+	font-weight: bold;
+}
+
+.ContainerProdutos:hover {
+	cursor: pointer;
+	opacity: 0.8;
+}
+
+.ContainerProdutos span{
+	display: inline-block;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+}
+
+
+.ContainerProdutos a:link{
+	text-decoration:none;
+}

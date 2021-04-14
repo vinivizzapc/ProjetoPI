@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+
+body {
+	padding-top: 100px;
+}
+
+th {
+	color: white;
+}
+
+td {
+	color: white;
+}
+
+.titulo{
+	font-size: 37px;
+}
+
+.botaoAdm{
+	margin-left: 185px;
+	margin-top: -37.5px;
+}
+
+.btn-light {
+	width: auto;
+}
+
+.btn-secondary{
+	height: 38px;
+	margin-bottom: 15px;
+	padding-top: 200px;
+}
+
+a.adm{
+	width: 135px;
+}
+
+.actions{
+	width: 290px;
+}

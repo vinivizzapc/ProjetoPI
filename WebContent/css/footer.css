@@ -1,0 +1,57 @@
+	@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open sans";
+}
+
+html, body{
+    height: 100%;
+}
+
+.container3{
+    width: 100%;
+    height: auto;
+    background: linear-gradient(#1a1a1a, black);
+}
+
+.col-md-4 p{
+    text-align: center;
+    color: white;
+}
+
+.col-md-4 img{
+	align: center;
+    width: 50px;
+    height: 50px;  
+}
+
+.col-md-4 h2{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.col-md-4 ul{
+    list-style-type: none;
+    align-items: center;
+}
+
+.col-md-4 li{
+    float: left;
+    padding: 0 5px;
+    margin-left: 40px;
+}
+
+.col-md-4 img.imagens-pagamento {
+	margin-left: -17px;
+    width: 50px;
+    height: 30px;
+}
+
+.col-md-4 img.rede-social:hover{
+	opacity: 0.7;
+}

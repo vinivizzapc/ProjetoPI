@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+	
+.titulo{
+	margin-top: 60px;
+	margin-left: 0px;
+	font-weight: bold;
+	font-size: 40px;
+}	
+	
+th{
+	font-weight: bold;
+	background: linear-gradient(#1a1a1a, black);
+	color: white;
+	height: 50px;
+	font-size: 16px;
+}
+
+.botoes{
+	padding-top: 26px;
+	margin-left: 0px;
+	
+}
+
+.tabelaNome{
+	margin-right: -120px;
+}
+
+.pesquisa{
+	margin-top: 20px;
+	}
+
+.DivVolt{
+	margin-left: 30px;
+}
+
+.pesquisa{
+	margin-right: -120px;
+}
+
+.linha{
+	margin-right: -120px;
+}
+.img_produto{
+	width: 50px; 
+	height: 60px;
+	
+}
+.img_colecao{
+	width: 50px; 
+	height: 60px;
+	
+}
+.Divadm{
+	margin-left: 70px;
+}
+

@@ -1,0 +1,58 @@
+@charset "ISO-8859-1";
+
+.cadastroletra {
+    font-size: 13px;
+}
+
+.checkNotificacao{
+    font-size: 10px;
+}
+
+.btn-cadastrar{
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.btn-cadastrar:hover{
+    background-color: grey;
+    color: white;
+    border: white;
+}
+
+.btn-cadastrar:click{
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.btndefault {
+    color: black;
+}
+
+.cadastroletra {
+    margin-bottom: 50px;
+}
+
+.form-group.required .control-label:after {
+  content:"*";
+  color:red;
+}
+.botao{
+    margin-left: 10px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-weigth: bold;
+    font-size: 14px;
+    border-radius: 8px;
+    border: none;
+    transition: 1s all;
+
+}
+.botao:hover{
+    transform: scale(1.2);
+    background-color: Crimson;
+}
